@@ -1,0 +1,20 @@
+This program was written to solve a real world problem!
+
+It features Java File I/O as well as a recursive algorithm
+to traverse a directory and it's subdirectories.
+
+Apparently MacOS uses right apostrophes rather than regular vertical apostrophes.
+This is an issue when you switch over OneDrive from Mac to your superior
+Windows machine, expecting to be able to ZIP your project. You will find that
+Windows ZIP errors out saying that several files contain an invalid character.
+
+Well, not today! Just enter your your directory or folder path in and the
+problem will be fixed.
+
+Now, back to what I was actually trying to do: ZIPping my node.js project
+to be able to deploy it to the cloud!
+
+P.S. I do still love Mac, but this was pretty annoying. I couldn't even see
+the difference between the Windows and Mac versions of apostrophe... Not to
+mention that when I finally noticed a visible difference I discovered I coudln't
+just paste in the right apostrophe.. I had to find the unicode value for it.
